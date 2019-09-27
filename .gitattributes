@@ -1,1 +1,4 @@
 datasheet/stm32f030f4.pdf filter=lfs diff=lfs merge=lfs -text
+BOM/RobonAUT_Project.xlsx filter=lfs diff=lfs merge=lfs -text
+PDF/RobonAUT_Project.PDF filter=lfs diff=lfs merge=lfs -text
+Gerbers/RobonAUT_Project.zip filter=lfs diff=lfs merge=lfs -text
