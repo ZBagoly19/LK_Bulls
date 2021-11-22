@@ -244,6 +244,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIWPXAXB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RobonAUT_Project\Design Rule Check - RobonAUT_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
