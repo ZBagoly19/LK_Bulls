@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Users\BagolyZoltan\Documents\RobonAUT\github\LK_Bulls\RobonAUT_PCB.PcbDoc
-Date     : 2021.11.22.
-Time     : 16:18:15
+Date     : 2021.11.23.
+Time     : 23:32:20
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
    Violation between Clearance Constraint: (Collision < 0.15mm) Between Area Fill (114.811mm,94.897mm) (119.891mm,102.136mm) on Top Layer And Pad S1-M(117.351mm,98.707mm) on Multi-Layer 
@@ -55,9 +55,9 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U10-4(85.58mm,104.603mm) on Multi-Layer And Pad Q1-2(117.351mm,81.207mm) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U10-1(85.58mm,117.811mm) on Multi-Layer And Pad U10-10(93.582mm,118.353mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U10-2(85.58mm,115.271mm) on Multi-Layer And Pad U10-1(85.58mm,117.811mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U12-5(79.122mm,117.811mm) on Multi-Layer And Pad U10-1(85.58mm,117.811mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U10-10(93.582mm,118.353mm) on Multi-Layer And Pad U10-5(104.122mm,117.811mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U10-9(91.042mm,118.353mm) on Multi-Layer And Pad U10-12(98.662mm,118.353mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U12-6(79.122mm,115.271mm) on Multi-Layer And Pad U10-2(85.58mm,115.271mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U10-4(85.58mm,104.603mm) on Multi-Layer And Pad U10-3(85.58mm,107.143mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U10-3(85.58mm,107.143mm) on Multi-Layer And Pad U10-9(91.042mm,118.353mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U10-6(104.122mm,115.271mm) on Multi-Layer And Pad U10-5(104.122mm,117.811mm) on Multi-Layer 
@@ -72,7 +72,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U11-4(35.58mm,104.603mm) on Multi-Layer And Pad U11-3(35.58mm,107.143mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net 11.1V Between Pad U11-3(35.58mm,107.143mm) on Multi-Layer And Pad U11-9(41.042mm,118.353mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U11-6(54.122mm,115.271mm) on Multi-Layer And Pad U11-5(54.122mm,117.811mm) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U11-5(54.122mm,117.811mm) on Multi-Layer And Pad U12-1(60.58mm,117.811mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U11-6(54.122mm,115.271mm) on Multi-Layer And Pad U12-2(60.58mm,115.271mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net 6V_1 Between Pad U11-8(54.122mm,104.603mm) on Multi-Layer And Pad U11-7(54.122mm,107.143mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U12-1(60.58mm,117.811mm) on Multi-Layer And Pad U12-10(68.582mm,118.353mm) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad U12-2(60.58mm,115.271mm) on Multi-Layer And Pad U12-1(60.58mm,117.811mm) on Multi-Layer 
@@ -133,9 +133,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0.2mm) (IsPad),(All)
 Rule Violations :2
 
 Processing Rule : Silk to Silk (Clearance=0.2mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.181mm < 0.2mm) Between Text "R24" (86.844mm,125.981mm) on Top Overlay And Track (88.725mm,125.225mm)(88.725mm,125.6mm) on Top Overlay Silk Text to Silk Clearance [0.181mm]
-   Violation between Silk To Silk Clearance Constraint: (0.181mm < 0.2mm) Between Text "R24" (86.844mm,125.981mm) on Top Overlay And Track (88.725mm,125.6mm)(90.275mm,125.6mm) on Top Overlay Silk Text to Silk Clearance [0.181mm]
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -150,6 +148,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25mm) (Prefered=12.5mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 92
+Violations Detected : 90
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:04
