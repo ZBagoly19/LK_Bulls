@@ -303,6 +303,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVJLFDEP
 
+[Document16]
+DocumentPath=Bluetooth.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JPGYMGRA
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
