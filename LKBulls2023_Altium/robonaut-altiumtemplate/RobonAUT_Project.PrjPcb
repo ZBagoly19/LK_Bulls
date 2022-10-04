@@ -219,6 +219,23 @@ GenerateClassCluster=0
 DocumentUniqueId=UEFABTWE
 
 [Document11]
+DocumentPath=VL53L1X-SATEL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FGLNQHSR
+
+[Document12]
 DocumentPath=53L0-SATEL-I1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZTTSYPFF
 
-[Document12]
+[Document13]
 DocumentPath=MotorControl.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UQFJGKUL
 
-[Document13]
+[Document14]
 DocumentPath=LKBulls2022.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RXNMYUCG
 
-[Document14]
+[Document15]
 DocumentPath=LKBulls2022.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRQVXFGB
 
-[Document15]
+[Document16]
 DocumentPath=Encoder.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVGGCPRN
 
-[Document16]
+[Document17]
 DocumentPath=RadioCommunication.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVJLFDEP
 
-[Document17]
+[Document18]
 DocumentPath=Bluetooth.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPGYMGRA
 
-[Document18]
+[Document19]
 DocumentPath=IMU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
